@@ -18,4 +18,4 @@ Kill With TaskManager
 
 AdamCGH is a previous account
 
-Encodeous 2019, Archived code from 2017
+Archived code from 2017
